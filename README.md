@@ -1,6 +1,6 @@
 # Jupiter
 3D Rotating Text Around Jupiter
-![Screenshot]()
+![Screenshot](https://github.com/VictorHugoAmaral/Jupiter/blob/main/assets/print.png)
 
 # Tecnologias usadas
 
